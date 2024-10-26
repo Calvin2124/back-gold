@@ -1,0 +1,68 @@
+# Système
+.DS_Store
+Thumbs.db
+
+# Logs et rapports d'erreur
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# Environnements
+.env
+.env.local
+.env.*.local
+
+# Dépendances
+node_modules/
+bower_components/
+
+# Compilation
+dist/
+build/
+out/
+*.tsbuildinfo
+
+# Bundles
+.bundle
+public/assets
+
+# Caches
+.cache/
+.tmp/
+
+# IDEs et éditeurs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS spécifiques
+*.swp
+*.swo
+
+# Systèmes de versionnement
+*.orig
+
+# Tests
+coverage/
+*.lcov
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pylintrc
+
+# Images
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Divers
+*.bak
+*.backup
+*.tmp
+*.old
